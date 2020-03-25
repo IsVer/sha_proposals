@@ -1,0 +1,41 @@
+// iOS smooth scroll
+* {
+  -webkit-overflow-scrolling: touch;
+}
+
+.transition--all-slow {
+  transition: all 0.3s ease-out;
+}
+.transition--all {
+  transition: all 0.15s ease-out !important;
+}
+
+// https://vuejs.org/v2/guide/transitions.html#Transition-Modes
+.fade,
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.22s ease-out !important;
+}
+.fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
+  opacity: 0;
+}
+
+.fade-slow-enter-active,
+.fade-slow-leave-active {
+  transition: opacity 1.5s ease-out !important;
+}
+.fade-slow-enter, .fade-slow-leave-to /* .fade-leave-active below version 2.1.8 */ {
+  opacity: 0;
+}
+
+.transition--side-reveal {
+  transition: transform 0.8s ease-in-out;
+}
+
+.zero-opacity {
+  opacity: 0;
+}
+
+.axis * {
+  transition: all 250ms ease-out;
+}

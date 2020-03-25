@@ -1,0 +1,319 @@
+// Axis
+.axis {
+  & path.domain {
+    opacity: 0;
+    stroke-dasharray: 6 3;
+  }
+  & .tick line {
+    // display: none;
+    stroke-dasharray: 3 3;
+    opacity: 0.1;
+  }
+  & .tick text {
+    font-size: 12px;
+    letter-spacing: 0.005em;
+    opacity: 0.9;
+    transform: rotate(-25deg) translateY(-5px);
+    text-anchor: end;
+  }
+  // ! TODO – move the labesl to the right
+}
+
+#brush .axis .tick text {
+  transform: translateX(7px) rotate(-25deg) translateY(-5px);
+}
+
+.horizontal-grid {
+  stroke: #cacaca;
+  stroke-dasharray: 2;
+  &.first {
+    stroke: #303030;
+    stroke-dasharray: 0;
+  }
+}
+
+// Bar chart with divs
+.div-chart {
+  & .caption {
+    line-height: 1.1 !important;
+    overflow: hidden;
+    // white-space: nowrap;
+    // text-overflow: ellipsis;
+  }
+  &.support {
+    background: #303030;
+    border: 1px solid #303030;
+  }
+}
+
+.div-chart {
+  &.no-support {
+    background: transparent;
+    border: 1px solid #303030;
+  }
+}
+
+.stroke--standard-dash {
+  stroke-dasharray: 3 3;
+}
+
+// side bar chart
+
+@include media("<md") {
+  .chart-bar-small {
+    & .x-axis {
+      & text {
+        transform: translateX(-17px) translateY(10px) rotate(-45deg);
+      }
+    }
+  }
+}
+
+//  pie chart
+.apexcharts-pie-label {
+  font-weight: bold !important;
+}
+
+// bubble chart
+
+.chart-bubble {
+  & .bubble {
+    opacity: 0.4;
+    fill: $grey-light;
+
+    &.no-overlap {
+      opacity: 0.6;
+    }
+    &.active {
+      &.e--fill {
+        fill: $e;
+      }
+      &.s--fill {
+        fill: $s;
+      }
+      &.g--fill {
+        fill: $g;
+      }
+    }
+    &.non-hover {
+      // fill: $grey-light !important;
+      opacity: 0.08;
+    }
+    &.non-selected {
+      opacity: 0.1;
+    }
+    &.hover {
+      opacity: 1;
+      stroke: $grey-mid;
+      transform: scale(1.2);
+    }
+    &.selected,
+    &.non-hover.selected {
+      stroke: $grey-mid;
+      stroke-width: 1;
+      opacity: 0.8;
+    }
+    &.average-all-is-hovered {
+      opacity: 0.4 !important;
+      fill: $grey-light !important;
+    }
+  }
+  & .average {
+    stroke: $background;
+    // stroke-width: 2;
+    // stroke-dasharray: 3 0;
+    fill: $grey-dark;
+    &.hover {
+      // transform: scale(1.8);
+      // stroke-width: 2;
+      // stroke-width: 1;
+      // stroke-dasharray: 3 1;
+      fill-opacity: 1;
+      // fill: transparent;
+      stroke: $background;
+      // &.e--fill {
+      //   fill: $e;
+      // }
+      // &.s--fill {
+      //   fill: $s;
+      // }
+      // &.g--fill {
+      //   fill: $g;
+      // }
+    }
+    &.non-hover {
+      opacity: 0.4;
+    }
+  }
+  & .connecting-path {
+    stroke: $grey-mid;
+    stroke-width: 1;
+    fill: none;
+    stroke-dasharray: 3 3;
+    opacity: 0.5;
+    &.average {
+      stroke: $grey-dark;
+    }
+    &.average-all-is-hovered {
+      // stroke: $grey-mid;
+      // stroke-width: 2;
+      // stroke-dasharray: 9 3;
+    }
+  }
+  & .bubble-label {
+    alignment-baseline: middle;
+    font-size: 24px;
+    font-weight: 500;
+  }
+  & .bubble-label-average {
+    alignment-baseline: middle;
+    text-anchor: end;
+  }
+}
+.average-label {
+  alignment-baseline: middle;
+  text-anchor: start;
+  transform: translateX(1.5%) translateY(0px);
+  font-size: 12px;
+  fill: $grey-dark;
+  opacity: 0.5;
+  &.hover {
+    opacity: 0.9;
+  }
+  &.stroke {
+    opacity: 1;
+    stroke: $background;
+    stroke-width: 5;
+    stroke-linejoin: round;
+  }
+}
+
+.axis-label--right {
+  font-size: 12px;
+  line-height: 1.2;
+  text-align: right;
+}
+
+// Violin
+.violin {
+  fill-opacity: 0.5;
+  stroke-opacity: 0.1;
+}
+
+// Brush
+
+.selection {
+  fill: url(#pattern-stripe);
+  fill-opacity: 0.1;
+}
+
+// Horizontal lines
+
+.horizontal-line {
+}
+
+svg .horizontal-line {
+  stroke: $grey-mid;
+  stroke-width: 1;
+  shape-rendering: crispEdges;
+  &.line-bold {
+    stroke-width: 2;
+  }
+}
+
+// Table
+
+.minimal-table {
+  &.v-data-table td,
+  &.v-data-table th {
+    height: 28px !important;
+    font-size: 12px !important;
+  }
+  & .v-data-footer__select .v-input {
+    margin: 2px 0 2px 34px !important;
+  }
+  &.theme--light.v-data-table {
+    background: transparent;
+  }
+
+  &.theme--light.v-data-table thead tr:last-child {
+    & th {
+      border-bottom: none;
+      &:after {
+        content: ""; /* This is necessary for the pseudo element to work. */
+        display: block; /* This will put the pseudo element on its own line. */
+        // margin: 0 auto; /* This will center the border. */
+        width: 105%; /* Change this to whatever width you want. */
+        padding-top: 10px; /* This creates some space between the element and the border. */
+        border-bottom: 1px solid black; /* This creates the border. Replace black with whatever color you want. */
+      }
+    }
+  }
+  &.theme--light.v-data-table tbody tr:not(:last-child) td:last-child {
+    border: none;
+  }
+  &.theme--light.v-data-table
+    tbody
+    tr:not(:last-child)
+    td:not(.v-data-table__mobile-row) {
+    border: none;
+    padding-bottom: 8px;
+    padding-top: 8px;
+  }
+}
+
+@media (device-width: 768px) and (device-height: 1024px) {
+  ::-webkit-scrollbar {
+    -webkit-appearance: none;
+    width: 7px;
+  }
+  ::-webkit-scrollbar-thumb {
+    border-radius: 4px;
+    background-color: rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 0 0 1px rgba(255, 255, 255, 0.5);
+  }
+}
+
+.transparent-gradient {
+  background: linear-gradient(rgba(250, 250, 250, 0), rgba(250, 250, 250, 1));
+}
+
+// Half hexagon
+.hex-triangle {
+  fill: none;
+  shape-rendering: geometricPrecision;
+  stroke-linejoin: round;
+  stroke-dasharray: 10 3;
+  &.e-vote {
+    stroke: $e;
+    stroke-opacity: 0.25;
+    fill: $e;
+    fill-opacity: 0.05;
+  }
+  &.s-vote {
+    stroke: $s;
+    stroke-opacity: 0.25;
+    fill: $s;
+    fill-opacity: 0.05;
+  }
+  &.g-vote {
+    stroke: $g;
+    stroke-opacity: 0.25;
+    fill: $g;
+    fill-opacity: 0.05;
+  }
+  &.e-support {
+    fill: $e;
+  }
+  &.s-support {
+    fill: $s;
+  }
+  &.g-support {
+    fill: $g;
+  }
+  &:hover {
+    stroke-opacity: 0.75;
+    fill-opacity: 0.15;
+    stroke-dasharray: 0;
+  }
+}

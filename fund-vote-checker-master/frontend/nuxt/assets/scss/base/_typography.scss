@@ -1,0 +1,29 @@
+@include media("<sm") {
+  .v-application.vuetify-responsive-typography {
+    & .display-3 {
+      font-size: 2.5rem !important;
+      line-height: 1.12;
+    }
+    & .display-1 {
+      font-size: 1.6rem !important;
+      // font-weight: regular !important;
+      line-height: 1.4;
+    }
+    & .title {
+      font-size: 1.2rem !important;
+      line-height: 1.32;
+    }
+  }
+}
+
+@include media(">=md", "<lg") {
+  html {
+    font-size: 18px !important;
+  }
+}
+
+@include media(">=lg") {
+  html {
+    font-size: 20px !important;
+  }
+}

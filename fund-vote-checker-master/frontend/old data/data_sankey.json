@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    { "id": "Filed" },
+    { "id": "Omitted" },
+    { "id": "Withdrawn" },
+    { "id": "Voted" },
+    { "id": " Failed" },
+    { "id": " Passed" }
+  ],
+  "links": [
+    {
+      "source": "Filed",
+      "target": "Omitted",
+      "aside": true,
+      "level": 0,
+      "value": 10,
+      "color": "#707070"
+    },
+    {
+      "source": "Filed",
+      "target": "Withdrawn",
+      "aside": true,
+      "level": 1,
+      "value": 20,
+      "color": "#707070"
+    },
+    {
+      "source": "Filed",
+      "target": "Voted",
+      "aside": false,
+      "level": 2,
+      "value": 70,
+      "color": "#707070"
+    },
+    {
+      "source": "Voted",
+      "target": " Failed",
+      "aside": false,
+      "level": 3,
+      "value": 60,
+      "color": "#707070"
+    },
+    {
+      "source": "Voted",
+      "target": " Passed",
+      "aside": false,
+      "level3": 3,
+      "value": 10,
+      "color": "#707070"
+    }
+  ]
+}

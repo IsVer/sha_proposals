@@ -1,0 +1,120 @@
+// -----------------------------------------------------------------------------
+// This file contains all application-wide Sass variables.
+// -----------------------------------------------------------------------------
+
+// @import url("https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,400i,600&display=swap");
+// @import url("https://fonts.googleapis.com/css?family=IBM+Plex+Serif&display=swap");
+
+// /// Regular font family
+// /// @type List
+$text-font-stack: "Roboto Sans", "Helvetica Neue", "Helvetica", sans-serif;
+
+$primary: #004882;
+$secondary: #ffc400;
+
+$grey-dark: #222;
+$grey-mid: #707070;
+$grey-light: #e1e1e1;
+
+$e: #81c784;
+$s: #e25f68;
+$g: #4a5b7e;
+$n: $grey-mid;
+
+$background: #fafafa;
+
+.secondary--stroke {
+  stroke: $secondary;
+}
+
+.secondary--fill {
+  fill: $secondary;
+}
+
+.e--background {
+  background: $e;
+}
+.s--background {
+  background: $s;
+}
+.g--background {
+  background: $g;
+}
+.n--background {
+  background: $n;
+}
+
+.e--fill {
+  fill: $e;
+}
+.s--fill {
+  fill: $s;
+}
+.g--fill {
+  fill: $g;
+}
+.n--fill {
+  fill: $n;
+}
+
+.e--stroke {
+  stroke: $e;
+  &.only-stroke {
+    fill: none;
+  }
+}
+.s--stroke {
+  stroke: $s;
+  &.only-stroke {
+    fill: none;
+  }
+}
+.g--stroke {
+  stroke: $g;
+  &.only-stroke {
+    fill: none;
+  }
+}
+.n--stroke {
+  stroke: $n;
+  &.only-stroke {
+    fill: none;
+  }
+}
+
+// old
+
+// .fill-env {
+//   fill: $e;
+// }
+// .fill-soc {
+//   fill: $s;
+// }
+// .fill-gg {
+//   fill: $g;
+// }
+// .fill-no-esg {
+//   fill: $n;
+// }
+
+// $manager-1: #3e2d3b;
+// $manager-2: #543e67;
+// $manager-3: #8f80bc;
+
+// $manager-1: #5cacab;
+// $manager-2: #592e7e;
+// $manager-3: #b82869;
+
+// .manager-1 {
+//   fill: $manager-1;
+// }
+// .manager-2 {
+//   fill: $manager-2;
+// }
+// .manager-3 {
+//   fill: $manager-3;
+// }
+
+// .manager-no {
+//   visibility: hidden;
+// }

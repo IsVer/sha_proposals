@@ -1,0 +1,261 @@
+id,fund_manager,fund,fund_all_names,e_vote,s_vote,g_vote,e_support,s_support,g_support,fund_is_esg,sum_votes
+180,2,SPDR(R) S&P(R) International Materials Sector ETF,['SPDR(R) S&P(R) International Materials Sector ETF'],1,10,6,5.882352941,5.882352941,0,0,17
+87,2,SPDR S&P Technology Hardware ETF,['SPDR S&P Technology Hardware ETF'],0,7,10,0,5.882352941,11.76470588,0,17
+353,0,BlackRock Emerging Markets Dividend Fund,"['BlackRock China Fund', 'BlackRock Emerging Markets Dividend Fund']",3,6,9,0,0,27.77777778,0,18
+1,1,Vanguard Mid-Cap Growth Fund,['Vanguard Mid-Cap Growth Fund'],2,4,12,5.555555556,8.333333333,50,0,18
+175,2,SPDR(R) S&P(R) International Consumer Staples Sector ETF,['SPDR(R) S&P(R) International Consumer Staples Sector ETF'],2,3,13,0,0,11.11111111,0,18
+12,2,State Street Institutional Small-Cap Equity Fund,"['Small-Cap Equity Fund', 'State Street Institutional Small-Cap Equity Fund']",3,2,15,5,5,60,0,20
+302,2,State Street Small-Cap Equity V.I.S. Fund,"['Small-Cap Equity Fund', 'State Street Small-Cap Equity V.I.S. Fund']",3,2,15,5,5,60,0,20
+144,2,STATE STREET GLOBAL VALUE SPOTLIGHT FUND,['STATE STREET GLOBAL VALUE SPOTLIGHT FUND'],4,9,8,0,11.9047619,4.761904762,0,21
+55,2,SPDR(R) S&P(R) Semiconductor ETF,['SPDR(R) S&P(R) Semiconductor ETF'],0,4,17,0,2.380952381,28.57142857,0,21
+237,2,Direxion Daily Semiconductor Bull 3X Shares,['Direxion Daily Semiconductor Bull 3X Shares'],0,11,11,0,27.27272727,50,0,22
+91,2,SPDR S&P Kensho Future Security ETF,"['SPDR Kensho Future Security ETF', 'SPDR S&P Kensho Future Security ETF']",2,5,15,9.090909091,6.818181818,15.90909091,0,22
+89,2,SPDR S&P Kensho Intelligent Structures ETF,"['SPDR Kensho Intelligent Infrastructure ETF', 'SPDR Kensho Intelligent Structures ETF', 'SPDR S&P Kensho Intelligent Structures ETF']",2,8,13,8.695652174,13.04347826,28.26086957,0,23
+346,0,BLACKROCK AURORA PORTFOLIO,['BLACKROCK AURORA PORTFOLIO'],4,5,14,13.04347826,0,43.47826087,0,23
+409,0,iShares MSCI Japan ETF,"['iShares MSCI Japan Index Fund', 'iShares MSCI Japan ETF']",3,4,16,0,0,4.347826087,0,23
+181,2,SPDR(R) S&P(R) International Technology Sector ETF,['SPDR(R) S&P(R) International Technology Sector ETF'],0,4,19,0,4.347826087,8.695652174,0,23
+256,0,BlackRock Systematic Multi-Strategy Fund,"['BlackRock Alternative Capital Strategies Fund', 'BlackRock Systematic Multi-Strategy Fund']",0,11,13,0,4.166666667,4.166666667,0,24
+236,2,Direxion Daily Retail Bull 2X Shares,"['Direxion Daily Retail Bull 3X Shares', 'Direxion Daily Retail Bull 2X Shares']",2,4,18,8.333333333,4.166666667,58.33333333,0,24
+271,0,BlackRock High Yield Portfolio,"['BlackRock High Income Portfolio', 'BlackRock High Yield Portfolio']",2,11,12,0,0,16,0,25
+285,0,BlackRock High Yield V.I.Fund,"['BlackRock High Income V.I. Fund', 'BlackRock High Yield V.I.Fund']",2,11,12,0,0,16,0,25
+401,2,LVIP BlackRock Global Real Estate Fund,"['LVIP Cohen & Steers Global Real Estate Fund', 'LVIP Clarion Global Real Estate Fund', 'LVIP BlackRock Global Real Estate Fund']",1,4,20,0,0,60,0,25
+354,0,BlackRock Global Long/Short Credit Fund,"['BlackRock Absolute Return Global Bond Portfolio', 'BlackRock Global Long/Short Credit Fund']",9,12,10,0,0,3.225806452,0,31
+138,2,State Street Defensive Global Equity Fund,"['State Street Global Managed Volatility Fund', 'State Street Disciplined Global Equity Fund', 'State Street Defensive Global Equity Fund']",5,16,11,1.5625,6.25,7.8125,0,32
+35,2,The Communication Services Select Sector SPDR Fund,['The Communication Services Select Sector SPDR Fund'],1,12,19,3.125,9.375,32.8125,0,32
+252,2,State Street Clarion Global Infrastructure & MLP Portfolio,['State Street Clarion Global Infrastructure & MLP Portfolio'],14,9,10,30.3030303,21.21212121,24.24242424,0,33
+421,1,Vanguard Strategic Equity Fund,['Vanguard Strategic Equity Fund'],2,15,18,1.428571429,8.571428571,25.71428571,0,35
+320,2,State Street International Stock Selection Fund,"['SSgA International Stock Selection Fund', 'SSGA International Stock Selection Fund', 'State Street International Stock Selection Fund']",8,8,19,2.857142857,0,8.571428571,0,35
+405,1,Vanguard Tax-Managed Small-Cap Fund,['Vanguard Tax-Managed Small-Cap Fund'],4,5,26,2.857142857,2.857142857,34.28571429,0,35
+321,2,SSGA Clarion Real Estate Fund,"['SSgA Tuckerman Active REIT Fund', 'SSgA Clarion Real Estate Fund', 'SSGA Clarion Real Estate Fund']",6,0,29,7.142857143,0,34.28571429,0,35
+6,1,Vanguard Russell 2000 Index Fund,['Vanguard Russell 2000 Index Fund'],6,2,28,4.166666667,2.777777778,25,0,36
+359,0,BlackRock Multi-Manager Alternative Strategies Fund,"['BlackRock Multi-Manager Alternatives Fund', 'BlackRock Multi-Manager Alternative Strategies Fund']",4,12,21,0,0,16.21621622,0,37
+342,0,BLACKROCK INTERNATIONAL DIVIDEND FUND,"['INTERNATIONAL OPPORTUNITIES EQUITY PORTFOLIO', 'INTERNATIONAL OPPORTUNITIES PORTFOLIO', 'BLACKROCK INTERNATIONAL OPPORTUNITIES PORTFOLIO', 'BLACKROCK INTERNATIONAL DIVIDEND FUND']",5,8,24,2.702702703,0,18.91891892,0,37
+68,2,SPDR(R) S&P(R) Oil & Gas Equipment & Services ETF,['SPDR(R) S&P(R) Oil & Gas Equipment & Services ETF'],4,9,24,9.459459459,13.51351351,28.37837838,0,37
+250,2,SPDR MFS Systematic Growth Equity ETF,['SPDR MFS Systematic Growth Equity ETF'],2,15,21,5.263157895,28.94736842,28.94736842,0,38
+398,1,Vanguard S&P Mid-Cap 400 Growth Index Fund,['Vanguard S&P Mid-Cap 400 Growth Index Fund'],7,5,26,5.263157895,3.947368421,21.05263158,0,38
+63,2,SPDR(R) S&P Mortgage Finance(SM) ETF,"['SPDR(R) KBW Mortgage Finance(SM) ETF', 'SPDR(R) S&P Mortgage Finance(SM) ETF']",10,7,22,12.82051282,2.564102564,20.51282051,0,39
+179,2,SPDR(R) S&P(R) International Industrial Sector ETF,['SPDR(R) S&P(R) International Industrial Sector ETF'],8,8,24,1.25,0,7.5,0,40
+223,0,BLACKROCK BOND PORTFOLIO,['BLACKROCK BOND PORTFOLIO'],3,12,25,0,5,22.5,0,40
+295,0,"BLACKROCK HEALTHCARE FUND, INC.","['BLACKROCK HEALTHCARE FUND, INC.']",5,13,23,0,0,24.3902439,0,41
+88,2,SPDR S&P Internet ETF,['SPDR S&P Internet ETF'],3,15,24,3.571428571,9.523809524,41.66666667,0,42
+296,1,Vanguard Energy Fund,['Vanguard Energy Fund'],14,18,11,13.95348837,18.60465116,6.976744186,0,43
+265,1,Vanguard International Value Fund,['Vanguard International Value Fund'],13,7,23,5.813953488,1.162790698,5.813953488,0,43
+106,0,iShares JPX-Nikkei 400 ETF,"['iShares S&P/TOPIX 150 Index Fund', 'iShares Japan Large-Cap ETF', 'iShares JPX-Nikkei 400 ETF']",5,10,28,0,0,6.976744186,0,43
+194,2,SPDR MSCI EAFE StrategicFactors ETF,"['SPDR MSCI EAFE Quality Mix ETF', 'SPDR MSCI EAFE StrategicFactors ETF']",24,9,11,10.22727273,1.136363636,2.272727273,0,44
+360,0,BlackRock Macro Themes Fund,['BlackRock Macro Themes Fund'],11,24,10,2.222222222,0,4.444444444,0,45
+251,2,SPDR MFS Systematic Value Equity ETF,['SPDR MFS Systematic Value Equity ETF'],1,19,25,0,37.77777778,20,0,45
+201,2,SPDR Solactive Canada ETF,"['SPDR MSCI Canada Quality Mix ETF', 'SPDR MSCI Canada StrategicFactors ETF', 'SPDR Solactive Canada ETF']",3,11,31,0,2.222222222,2.222222222,0,45
+249,2,SPDR MFS Systematic Core Equity ETF,['SPDR MFS Systematic Core Equity ETF'],3,19,27,4.081632653,32.65306122,26.53061224,0,49
+21,0,BlackRock Master SmallCap Growth Portfolio,['BlackRock Master SmallCap Growth Portfolio'],10,10,29,0,0,55.10204082,0,49
+62,2,SPDR(R) S&P Regional Banking(SM) ETF,"['SPDR(R) KBW Regional Banking(SM) ETF', 'SPDR(R) S&P Regional Banking(SM) ETF']",2,9,39,2,10,46,0,50
+228,0,BLACKROCK STRATEGIC INCOME OPPORTUNITIES PORTFOLIO,['BLACKROCK STRATEGIC INCOME OPPORTUNITIES PORTFOLIO'],6,25,20,0,0,1.960784314,0,51
+65,2,SPDR(R) S&P(R) Health Care Equipment ETF,['SPDR(R) S&P(R) Health Care Equipment ETF'],9,5,39,8.490566038,0.943396226,34.90566038,0,53
+54,2,SPDR(R) S&P(R) Homebuilders ETF,['SPDR(R) S&P(R) Homebuilders ETF'],7,14,33,4.62962963,9.259259259,27.77777778,0,54
+107,0,iShares MSCI EAFE ETF,"['iShares MSCI EAFE Index Fund', 'iShares MSCI EAFE ETF']",7,9,39,0,0,3.636363636,0,55
+42,2,SPDR(R) S&P Insurance ETF,"['SPDR(R) KBW Insurance ETF', 'SPDR(R) S&P Insurance ETF']",7,26,24,7.01754386,15.78947368,15.78947368,0,57
+298,1,Vanguard Dividend Appreciation Index Fund,['Vanguard Dividend Appreciation Index Fund'],3,27,27,0,1.754385965,3.50877193,0,57
+19,1,Vanguard U.S. Liquidity Factor ETF,['Vanguard U.S. Liquidity Factor ETF'],17,17,26,10,3.333333333,5,0,60
+217,2,SPDR MSCI Canada StrategicFactors Currency Hedged ETF,['SPDR MSCI Canada StrategicFactors Currency Hedged ETF'],7,25,28,3.333333333,3.333333333,0,0,60
+338,0,BLACKROCK ADVANTAGE SMALL CAP GROWTH FUND,"['BLACKROCK SMALL CAP GROWTH EQUITY PORTFOLIO', 'BLACKROCK ADVANTAGE SMALL CAP GROWTH FUND']",11,10,39,0,0,51.66666667,0,60
+39,2,SPDR(R) Dow Jones REIT ETF,['SPDR(R) Dow Jones REIT ETF'],5,5,50,4.166666667,4.166666667,41.66666667,0,60
+172,2,SPDR(R) Dow Jones Global Real Estate ETF,['SPDR(R) Dow Jones Global Real Estate ETF'],5,5,50,4.166666667,4.166666667,41.66666667,0,60
+375,0,iShares Edge MSCI USA Quality Factor Index Fund,['iShares Edge MSCI USA Quality Factor Index Fund'],9,30,22,1.639344262,0,1.639344262,0,61
+243,2,Direxion iBillionaire Index ETF,['Direxion iBillionaire Index ETF'],4,29,28,6.557377049,21.31147541,26.2295082,0,61
+10,2,State Street Institutional Premier Growth Equity Fund,"['Premier Growth Equity Fund', 'State Street Institutional Premier Growth Equity Fund']",7,32,23,0,0,14.51612903,0,62
+307,2,State Street Premier Growth Equity V.I.S. Fund,"['Premier Growth Equity Fund', 'State Street Premier Growth Equity V.I.S. Fund']",7,32,23,0,0,14.51612903,0,62
+67,2,SPDR(R) S&P(R) Metals & Mining ETF,['SPDR(R) S&P(R) Metals & Mining ETF'],18,17,27,16.12903226,19.35483871,17.74193548,0,62
+142,2,STATE STREET HEDGED INTERNATIONAL DEVELOPED EQUITY INDEX FUND,['STATE STREET HEDGED INTERNATIONAL DEVELOPED EQUITY INDEX FUND'],40,15,8,1.587301587,0,0,0,63
+290,1,Vanguard Small-Cap Index Fund,['Vanguard Small-Cap Index Fund'],6,15,42,4.761904762,6.349206349,33.33333333,0,63
+170,2,SPDR(R) S&P(R) INTERNATIONAL MID CAP ETF,['SPDR(R) S&P(R) INTERNATIONAL MID CAP ETF'],28,14,22,0,1.5625,3.125,0,64
+374,0,iShares Edge MSCI USA Momentum Factor Index Fund,['iShares Edge MSCI USA Momentum Factor Index Fund'],3,31,30,0,0,12.5,0,64
+90,2,SPDR S&P Kensho Smart Mobility ETF,"['SPDR Kensho Smart Transportation ETF', 'SPDR Kensho Smart Mobility ETF', 'SPDR S&P Kensho Smart Mobility ETF']",9,23,32,0,1.5625,28.125,0,64
+94,2,SPDR S&P Kensho New Economies Composite ETF,['SPDR S&P Kensho New Economies Composite ETF'],2,29,33,3.125,13.28125,25.78125,0,64
+221,0,BlackRock Fundamental Growth Principal Protected Fund,['BlackRock Fundamental Growth Principal Protected Fund'],6,24,34,0,3.125,32.8125,0,64
+158,2,SPDR(R) S&P(R) International Small Cap ETF,['SPDR(R) S&P(R) International Small Cap ETF'],7,17,40,2.34375,2.34375,7.03125,0,64
+358,0,BlackRock Advantage Small Cap Core Fund,"['BlackRock Disciplined Small Cap Core Fund', 'BlackRock Advantage Small Cap Core Fund']",7,14,43,0,1.5625,46.875,0,64
+287,1,Vanguard Value Index Fund,['Vanguard Value Index Fund'],6,16,43,3.846153846,10,26.15384615,0,65
+292,1,Vanguard International Growth Fund,['Vanguard International Growth Fund'],15,24,28,5.223880597,2.985074627,2.985074627,0,67
+241,2,Direxion All Cap Insider Sentiment Shares,['Direxion All Cap Insider Sentiment Shares'],7,29,31,7.462686567,25.37313433,35.82089552,0,67
+400,2,LVIP Blended Large Cap Growth Managed Volatility Fund,"['LVIP Janus Capital Appreciation Fund', 'LVIP UBS Large Cap Growth RPM Fund', 'LVIP UBS Large Cap Growth Managed Volatility Fund', 'LVIP Blended Large Cap Growth Managed Volatility Fund']",6,32,30,0,0,29.41176471,0,68
+53,2,SPDR(R) S&P(R) Biotech ETF,['SPDR(R) S&P(R) Biotech ETF'],6,17,45,5.147058824,3.676470588,19.85294118,0,68
+367,0,iShares Russell Small/Mid-Cap Index Fund,"['BlackRock Small/Mid Cap Index Fund', 'iShares Russell Small/Mid-Cap Index Fund']",19,6,44,0,0,33.33333333,0,69
+382,1,Vanguard Pacific Stock Index Fund,['Vanguard Pacific Stock Index Fund'],37,16,18,0,0,4.225352113,0,71
+76,2,SPDR Russell Small Cap Completeness(R) ETF,['SPDR Russell Small Cap Completeness(R) ETF'],9,11,51,7.746478873,7.746478873,42.25352113,0,71
+100,0,BlackRock Event Driven Equity Fund,"['BlackRock Large Cap Core Plus Fund', 'BlackRock Event Driven Equity Fund']",13,25,36,1.351351351,0,9.459459459,0,74
+220,0,BlackRock Basic Value Principal Protected Fund,['BlackRock Basic Value Principal Protected Fund'],4,19,51,0,5.405405405,37.83783784,0,74
+203,2,SPDR Solactive Japan ETF,"['SPDR MSCI Japan Quality Mix ETF', 'SPDR MSCI Japan StrategicFactors ETF', 'SPDR Solactive Japan ETF']",45,11,19,4.666666667,0.666666667,4.666666667,0,75
+370,0,iShares Edge MSCI Multifactor USA Index Fund,"['BlackRock Multifactor USA Index Fund', 'iShares Edge MSCI Multifactor USA Index Fund']",10,28,42,1.25,0,7.5,0,80
+56,2,SPDR(R) S&P(R) Aerospace & Defense ETF,['SPDR(R) S&P(R) Aerospace & Defense ETF'],2,26,55,2.409638554,6.024096386,10.84337349,0,83
+383,1,Vanguard FTSE All-World ex-US Index Fund,['Vanguard FTSE All-World ex-US Index Fund'],28,38,20,0,1.162790698,1.162790698,0,86
+66,2,SPDR(R) S&P(R) Health Care Services ETF,['SPDR(R) S&P(R) Health Care Services ETF'],8,33,46,6.896551724,14.94252874,13.79310345,0,87
+211,2,SPDR S&P North American Natural Resources ETF,['SPDR S&P North American Natural Resources ETF'],37,32,21,22.77777778,12.77777778,7.222222222,0,90
+361,0,BlackRock Alternative Capital Strategies Fund,['BlackRock Alternative Capital Strategies Fund'],16,43,31,0,0,2.222222222,0,90
+328,2,State Street Dynamic Small Cap Fund,"['SSgA Small Cap Fund', 'SSgA Dynamic Small Cap Fund', 'SSGA Dynamic Small Cap Fund', 'State Street Dynamic Small Cap Fund']",16,16,59,8.241758242,12.63736264,37.91208791,0,91
+248,2,State Street Risk Aware Portfolio,['State Street Risk Aware Portfolio'],28,32,32,7.065217391,6.52173913,8.695652174,0,92
+41,2,SPDR(R) S&P Capital Markets ETF,"['SPDR(R) KBW Capital Markets ETF', 'SPDR(R) S&P Capital Markets ETF']",8,51,33,0.543478261,13.58695652,10.32608696,0,92
+261,0,BlackRock U.S. Equity Factor Rotation ETF,['BlackRock U.S. Equity Factor Rotation ETF'],5,49,38,2.173913043,1.086956522,11.95652174,0,92
+58,2,SPDR(R) S&P(R) Pharmaceuticals ETF,['SPDR(R) S&P(R) Pharmaceuticals ETF'],5,36,51,2.173913043,5.97826087,2.717391304,0,92
+377,0,iShares Edge MSCI USA Value Factor Index Fund,['iShares Edge MSCI USA Value Factor Index Fund'],16,31,47,1.063829787,0,4.255319149,0,94
+336,0,BLACKROCK MID CAP GROWTH EQUITY PORTFOLIO,['BLACKROCK MID CAP GROWTH EQUITY PORTFOLIO'],22,22,50,1.063829787,1.063829787,34.04255319,0,94
+212,2,SPDR MSCI EAFE Fossil Fuel Reserves Free ETF,['SPDR MSCI EAFE Fossil Fuel Reserves Free ETF'],50,28,17,0.526315789,0,6.842105263,0,95
+60,2,SPDR(R) S&P(R) Telecom ETF,['SPDR(R) S&P(R) Telecom ETF'],3,49,43,1.052631579,9.473684211,11.57894737,0,95
+126,0,iShares MSCI ACWI ex U.S. ETF,"['iShares MSCI ACWI ex US Index Fund', 'iShares MSCI ACWI ex U.S. ETF']",9,11,75,0,0,2.105263158,0,95
+233,2,Direxion Daily Financial Bull 3X Shares,['Direxion Daily Financial Bull 3X Shares'],14,47,39,7,32,28,0,100
+52,2,SPDR(R) S & P 600 Small Cap Growth ETF,"['SPDR(R) Dow Jones Small Cap Growth ETF', 'SPDR(R) S & P 600 Small Cap Growth ETF']",20,10,73,10.19417476,4.368932039,44.17475728,0,103
+218,2,SPDR MSCI Japan StrategicFactors Currency Hedged ETF,['SPDR MSCI Japan StrategicFactors Currency Hedged ETF'],69,17,18,0.480769231,0,3.846153846,0,104
+392,0,"BLACKROCK UTILITIES & TELECOMMUNICATIONS FUND, INC.","['BLACKROCK UTILITIES & TELECOMMUNICATIONS FUND, INC.']",22,15,67,0.961538462,0,30.76923077,0,104
+98,2,State Street International Developed Equity Index Portfolio,['State Street International Developed Equity Index Portfolio'],52,35,18,0.476190476,0.476190476,6.19047619,0,105
+51,2,SPDR(R) S & P 600 Small Cap ETF,"['SPDR(R) Dow Jones Small Cap ETF', 'SPDR(R) S & P 600 Small Cap ETF']",15,11,82,8.796296296,3.703703704,57.87037037,0,108
+288,1,Vanguard Growth Index Fund,['Vanguard Growth Index Fund'],31,9,70,8.181818182,4.545454545,25.45454545,0,110
+334,1,Vanguard Capital Value Fund,['Vanguard Capital Value Fund'],6,48,61,0,7.826086957,6.086956522,0,115
+31,2,The Materials Select Sector SPDR Fund,"['Materials Select Sector SPDR Fund', 'The Materials Select Sector SPDR Fund']",24,37,56,6.837606838,10.68376068,14.95726496,0,117
+20,1,Vanguard U.S. Multifactor ETF,['Vanguard U.S. Multifactor ETF'],6,50,61,0,2.564102564,12.82051282,0,117
+348,0,BLACKROCK CAPITAL APPRECIATION PORTFOLIO,['BLACKROCK CAPITAL APPRECIATION PORTFOLIO'],13,44,63,0,2.5,25,0,120
+177,2,SPDR(R) S&P(R) International Financial Sector ETF,['SPDR(R) S&P(R) International Financial Sector ETF'],3,42,76,0,0.826446281,2.892561983,0,121
+3,1,Vanguard Global Minimum Volatility Fund,['Vanguard Global Minimum Volatility Fund'],21,52,49,0.819672131,3.278688525,9.016393443,0,122
+75,2,SPDR SSGA US Small Cap Low Volatility Index ETF,"['SPDR Russell 2000 Low Volatility ETF', 'SPDR SSGA US Small Cap Low Volatility Index ETF']",22,21,85,7.421875,5.859375,49.609375,0,128
+214,2,SPDR MSCI EAFE StrategicFactors Currency Hedged ETF,['SPDR MSCI EAFE StrategicFactors Currency Hedged ETF'],67,41,22,1.153846154,0,4.230769231,0,130
+61,2,SPDR(R) S&P(R) Transportation ETF,['SPDR(R) S&P(R) Transportation ETF'],10,40,81,4.961832061,13.35877863,26.71755725,0,131
+81,2,SPDR FactSet Innovative Technology ETF,['SPDR FactSet Innovative Technology ETF'],6,62,65,1.503759398,9.77443609,36.09022556,0,133
+192,2,SPDR S&P Global Dividend ETF,['SPDR S&P Global Dividend ETF'],29,38,66,6.015037594,3.007518797,4.135338346,0,133
+7,1,Vanguard Russell 2000 Growth Index Fund,['Vanguard Russell 2000 Growth Index Fund'],16,23,95,3.731343284,5.223880597,47.01492537,0,134
+64,2,SPDR(R) S&P(R) Software & Services ETF,"['SPDR(R) S&P(R) Computer Software ETF', 'SPDR(R) S&P(R) Software & Services ETF']",9,62,66,1.459854015,12.40875912,25.54744526,0,137
+49,2,SPDR(R) S & P 400 Mid Cap Growth ETF,"['SPDR(R) Dow Jones Mid Cap Growth ETF', 'SPDR(R) S & P 400 Mid Cap Growth ETF']",27,28,85,10,9.285714286,30.35714286,0,140
+152,2,STATE STREET U.S. VALUE SPOTLIGHT FUND,['STATE STREET U.S. VALUE SPOTLIGHT FUND'],15,66,60,3.191489362,5.673758865,4.964539007,0,141
+96,1,Vanguard Windsor II Fund,['Vanguard Windsor II Fund'],20,56,69,0,0.689655172,3.448275862,0,145
+294,0,"BLACKROCK FOCUS VALUE FUND, INC.","['BLACKROCK FOCUS VALUE FUND, INC.']",13,56,79,0,3.378378378,22.2972973,0,148
+389,1,Equity Income Portfolio,['Equity Income Portfolio'],34,52,64,4.666666667,7.666666667,3.333333333,0,150
+390,1,Mid-Cap Index Portfolio,['Mid-Cap Index Portfolio'],21,51,87,6.289308176,6.918238994,15.09433962,0,159
+40,2,SPDR(R) S&P Bank ETF,"['SPDR(R) KBW Bank ETF', 'SPDR(R) S&P Bank ETF']",8,78,79,1.515151515,10.3030303,7.575757576,0,165
+253,2,State Street Defensive Global Equity Portfolio,"['State Street Global Managed Volatility Portfolio', 'State Street Disciplined Global Equity Portfolio', 'State Street Defensive Global Equity Portfolio']",22,74,84,1.111111111,7.5,7.222222222,0,180
+326,2,SSGA Enhanced Small Cap Fund,"['SSgA Enhanced Small Cap Fund', 'SSGA Enhanced Small Cap Fund']",35,26,122,10.92896175,6.284153005,44.26229508,0,183
+355,0,BlackRock Commodity Strategies Fund,"['BlackRock Commodity Strategies Portfolio', 'BlackRock Commodity Strategies Fund']",65,75,45,1.621621622,0.540540541,4.864864865,0,185
+150,2,STATE STREET DISCIPLINED U.S. EQUITY FUND,['STATE STREET DISCIPLINED U.S. EQUITY FUND'],26,85,79,2.105263158,6.842105263,8.421052632,0,190
+402,0,BlackRock Mid Cap Dividend Fund,"['BlackRock Mid Cap Value Opportunities Fund', 'BlackRock Mid Cap Dividend Fund']",36,51,120,0.483091787,0.483091787,26.08695652,0,207
+372,0,iShares Edge MSCI Min Vol USA Index Fund,"['BlackRock Min Vol USA Index Fund', 'iShares Edge MSCI Min Vol USA Index Fund']",20,109,85,0.46728972,1.869158879,7.009345794,0,214
+33,2,The Utilities Select Sector SPDR Fund,"['Utilities Select Sector SPDR Fund', 'The Utilities Select Sector SPDR Fund']",65,65,86,8.333333333,15.74074074,7.407407407,0,216
+174,2,SPDR(R) S&P(R) International Utilities Sector ETF,['SPDR(R) S&P(R) International Utilities Sector ETF'],161,29,28,2.064220183,0.688073394,2.293577982,0,218
+263,0,"BLACKROCK BASIC VALUE FUND, INC.","['BLACKROCK BASIC VALUE FUND, INC.']",32,82,106,0.909090909,0.909090909,4.545454545,0,220
+83,2,SPDR Russell 1000 Yield Focus ETF,"['SPDR Russell 1000 Core Yield ETF', 'SPDR Russell 1000 Yield Focus ETF']",51,76,97,8.705357143,16.29464286,18.75,0,224
+185,2,SPDR(R) S&P(R) Global Natural Resources ETF,"['SPDR(R) S&P(R) Global Natural Resources ETF (GNR)', 'SPDR(R) S&P(R) Global Natural Resources ETF']",80,85,60,11.33333333,9.333333333,7.777777778,0,225
+160,2,SPDR(R) S&P GLOBAL INFRASTRUCTURE ETF,"['SPDR(R) FTSE/MACQUARIE GLOBAL INFRASTRUCTURE 100 ETF', 'SPDR(R) S&P GLOBAL INFRASTRUCTURE ETF']",104,46,77,10.35242291,7.268722467,6.167400881,0,227
+247,2,SSGA MFS SYSTEMATIC VALUE EQUITY PORTFOLIO,"['SSgA MFS SYSTEMATIC VALUE EQUITY PORTFOLIO', 'SSGA MFS SYSTEMATIC VALUE EQUITY PORTFOLIO']",45,98,84,11.01321586,17.62114537,15.85903084,0,227
+246,2,SSGA MFS SYSTEMATIC GROWTH EQUITY PORTFOLIO,"['SSgA MFS SYSTEMATIC GROWTH EQUITY PORTFOLIO', 'SSGA MFS SYSTEMATIC GROWTH EQUITY PORTFOLIO']",25,107,97,4.80349345,20.96069869,25.32751092,0,229
+245,2,SSGA MFS SYSTEMATIC CORE EQUITY PORTFOLIO,"['SSgA MFS SYSTEMATIC CORE EQUITY PORTFOLIO', 'SSGA MFS SYSTEMATIC CORE EQUITY PORTFOLIO']",36,110,86,7.327586207,17.67241379,17.24137931,0,232
+16,0,"BLACKROCK GLOBAL GROWTH FUND, INC.","['BLACKROCK GLOBAL GROWTH FUND, INC.']",39,83,110,0.431034483,3.017241379,19.82758621,0,232
+162,2,SPDR(R) RUSSELL/NOMURA PRIME(TM) JAPAN ETF,['SPDR(R) RUSSELL/NOMURA PRIME(TM) JAPAN ETF'],142,28,67,1.898734177,0.632911392,4.219409283,0,237
+59,2,SPDR(R) S&P(R) Retail ETF,['SPDR(R) S&P(R) Retail ETF'],39,72,132,4.526748971,10.08230453,26.13168724,0,243
+50,2,SPDR(R) S & P 400 Mid Cap Value ETF,"['SPDR(R) Dow Jones Mid Cap Value ETF', 'SPDR(R) S & P 400 Mid Cap Value ETF']",59,37,147,14.40329218,7.613168724,29.83539095,0,243
+44,2,SPDR(R) S&P(R) Dividend ETF,['SPDR(R) S&P(R) Dividend ETF'],51,89,104,8.196721311,7.991803279,10.86065574,0,244
+330,2,SSgA Core Edge Equity Fund,['SSgA Core Edge Equity Fund'],26,82,137,2.857142857,6.93877551,8.163265306,0,245
+86,2,SPDR SSGA Gender Diversity Index ETF,['SPDR SSGA Gender Diversity Index ETF'],40,106,102,2.822580645,9.475806452,13.50806452,0,248
+5,1,Vanguard Russell 1000 Growth Index Fund,['Vanguard Russell 1000 Growth Index Fund'],37,102,123,2.480916031,9.541984733,8.015267176,0,262
+224,0,BLACKROCK MANAGED INCOME PORTFOLIO,['BLACKROCK MANAGED INCOME PORTFOLIO'],33,83,148,0,0.757575758,23.10606061,0,264
+118,0,iShares MSCI KLD 400 Social ETF,"['iShares FTSE KLD 400 Social Index Fund', 'iShares MSCI KLD 400 Social Index Fund', 'iShares MSCI KLD 400 Social ETF']",24,72,171,6.367041199,23.59550562,62.17228464,0,267
+349,0,BLACKROCK HEALTH SCIENCES OPPORTUNITIES PORTFOLIO,['BLACKROCK HEALTH SCIENCES OPPORTUNITIES PORTFOLIO'],24,86,158,0,0.746268657,13.43283582,0,268
+78,2,SPDR S&P 500(R) Buyback ETF,['SPDR S&P 500(R) Buyback ETF'],35,113,123,2.58302583,14.02214022,9.594095941,0,271
+306,2,State Street Core Value Equity V.I.S. Fund,"['Core Value Equity Fund', 'State Street Core Value Equity V.I.S. Fund']",37,108,129,0,0,10.58394161,0,274
+26,2,The Consumer Staples Select Sector SPDR Fund,"['Consumer Staples Select Sector SPDR Fund', 'The Consumer Staples Select Sector SPDR Fund']",82,106,87,4.909090909,9.272727273,12.36363636,0,275
+28,2,The Financial Select Sector SPDR Fund,"['Financial Select Sector SPDR Fund', 'The Financial Select Sector SPDR Fund']",28,131,118,4.512635379,9.566787004,8.122743682,0,277
+240,2,Direxion NASDAQ-100(R) Equal Weighted Index Shares,['Direxion NASDAQ-100(R) Equal Weighted Index Shares'],33,111,142,11.53846154,22.72727273,46.5034965,0,286
+57,2,SPDR(R) S&P(R) Oil & Gas Exploration & Production ETF,['SPDR(R) S&P(R) Oil & Gas Exploration & Production ETF'],122,104,63,16.26297578,10.89965398,7.612456747,0,289
+29,2,The Health Care Select Sector SPDR Fund,"['Health Care Select Sector SPDR Fund', 'The Health Care Select Sector SPDR Fund']",18,88,185,2.920962199,6.872852234,13.57388316,0,291
+14,2,State Street Institutional U.S. Equity Fund,"['U.S. Equity Fund', 'State Street Institutional U.S. Equity Fund']",38,129,131,0,0.33557047,8.389261745,0,298
+376,0,iShares Edge MSCI USA Size Factor Index Fund,['iShares Edge MSCI USA Size Factor Index Fund'],52,121,127,1.666666667,1.333333333,8.333333333,0,300
+85,2,SPDR Russell 1000 Low Volatility Focus ETF,"['SPDR Russell 1000 Core Low Volatility ETF', 'SPDR Russell 1000 Low Volatility Focus ETF']",57,110,137,5.427631579,14.14473684,16.61184211,0,304
+37,2,SPDR(R) S & P 600 Small Cap Value ETF,"['SPDR(R) Dow Jones Small Cap Value ETF', 'SPDR(R) S & P 600 Small Cap Value ETF']",39,38,229,7.189542484,4.248366013,41.33986928,0,306
+403,0,"BLACKROCK ADVANTAGE GLOBAL FUND, INC.","['BLACKROCK GLOBAL SMALLCAP FUND, INC.', 'BLACKROCK ADVANTAGE GLOBAL FUND, INC.']",26,117,168,0.321543408,0.964630225,14.46945338,0,311
+340,0,BLACKROCK HIGH EQUITY INCOME FUND,"['BLACKROCK U.S. OPPORTUNITIES EQUITY PORTFOLIO', 'BLACKROCK U.S. OPPORTUNITIES PORTFOLIO', 'BLACKROCK HIGH EQUITY INCOME FUND']",42,69,203,0.955414013,0.636942675,24.84076433,0,314
+343,0,BLACKROCK ALL-CAP ENERGY & RESOURCES PORTFOLIO,['BLACKROCK ALL-CAP ENERGY & RESOURCES PORTFOLIO'],122,109,86,1.892744479,1.261829653,9.463722397,0,317
+140,2,State Street Global Equity ex-U.S. Index Portfolio,['State Street Global Equity ex-U.S. Index Portfolio'],134,96,98,2.43902439,1.219512195,2.591463415,0,328
+32,2,The Technology Select Sector SPDR Fund,"['Technology Select Sector SPDR Fund', 'The Technology Select Sector SPDR Fund']",21,158,155,1.19760479,10.32934132,14.37125749,0,334
+113,0,iShares MSCI USA ESG Select ETF,"['iShares FTSE KLD Select Social Index Fund', 'iShares MSCI USA ESG Select Social Index Fund', 'iShares MSCI USA ESG Select ETF']",35,102,200,7.121661721,27.89317507,56.08308605,0,337
+388,1,Capital Growth Portfolio,['Capital Growth Portfolio'],37,148,153,1.331360947,9.319526627,5.621301775,0,338
+2,1,Vanguard High Dividend Yield Index Fund,['Vanguard High Dividend Yield Index Fund'],69,136,136,3.372434018,8.651026393,4.105571848,0,341
+351,0,BLACKROCK ADVANTAGE INTERNATIONAL FUND,"['BLACKROCK GLOBAL OPPORTUNITIES PORTFOLIO', 'BLACKROCK ADVANTAGE INTERNATIONAL FUND']",64,133,145,0.292397661,0,11.40350877,0,342
+27,2,The Energy Select Sector SPDR Fund,"['Energy Select Sector SPDR Fund', 'The Energy Select Sector SPDR Fund']",138,113,94,16.95652174,12.31884058,7.391304348,0,345
+43,2,SPDR(R) NYSE Technology ETF,"['SPDR(R) Morgan Stanley Technology ETF', 'SPDR(R) NYSE Technology ETF']",27,170,169,1.639344262,10.24590164,24.04371585,0,366
+278,0,BlackRock Advantage U.S. Total Market V.I. Fund,"['BlackRock Value Opportunities V.I. Fund', 'BlackRock Advantage U.S. Total Market V.I. Fund']",47,131,188,0.546448087,1.366120219,18.30601093,0,366
+15,2,State Street Institutional U.S. Large-Cap Core Equity Fund,"['Core Value Equity Fund', 'U.S. Large-Cap Core Equity Fund', 'State Street Institutional U.S. Large-Cap Core Equity Fund']",46,151,175,1.075268817,2.822580645,10.48387097,0,372
+272,1,VANGUARD EXPLORER FUND,['VANGUARD EXPLORER FUND'],68,66,238,4.97311828,5.913978495,28.89784946,0,372
+30,2,The Industrial Select Sector SPDR Fund,"['Industrial Select Sector SPDR Fund', 'The Industrial Select Sector SPDR Fund']",25,129,220,4.411764706,10.82887701,13.36898396,0,374
+312,0,BLACKROCK NATURAL RESOURCES TRUST,['BLACKROCK NATURAL RESOURCES TRUST'],123,148,104,1.066666667,1.333333333,9.066666667,0,375
+325,2,SSgA Directional Core Equity Fund,['SSgA Directional Core Equity Fund'],63,142,171,3.856382979,8.510638298,7.180851064,0,376
+422,1,Vanguard Capital Opportunity Fund,['Vanguard Capital Opportunity Fund'],55,158,171,2.994791667,8.333333333,8.59375,0,384
+161,2,SPDR(R) MSCI ACWI EX-US ETF,['SPDR(R) MSCI ACWI EX-US ETF'],139,111,154,2.103960396,1.237623762,4.207920792,0,404
+25,2,The Consumer Discretionary Select Sector SPDR Fund,"['Consumer Discretionary Select Sector SPDR Fund', 'The Consumer Discretionary Select Sector SPDR Fund']",47,140,220,3.194103194,14.004914,24.2014742,0,407
+341,0,BlackRock Technology Opportunities Fund,"['BLACKROCK GLOBAL SCIENCE & TECHNOLOGY OPPORTUNITIES PORTFOLIO', 'BLACKROCK SCIENCE & TECHNOLOGY OPPORTUNITIES PORTFOLIO', 'BlackRock Technology Opportunities Fund']",50,163,197,0.243902439,1.707317073,25.36585366,0,410
+333,1,Vanguard Asset Allocation Fund,['Vanguard Asset Allocation Fund'],62,138,211,7.177615572,15.20681265,7.420924574,0,411
+305,2,State Street U.S. Equity V.I.S. Fund,"['U.S. Equity Fund', 'State Street U.S. Equity V.I.S. Fund']",52,176,190,0.956937799,2.751196172,10.28708134,0,418
+270,0,BlackRock Capital Appreciation Portfolio,"['BlackRock Fundamental Growth Portfolio', 'BlackRock Capital Appreciation Portfolio']",57,176,197,0,0.465116279,19.53488372,0,430
+282,0,BlackRock Capital Appreciation V.I. Fund,"['BlackRock Fundamental Growth V.I. Fund', 'BlackRock Capital Appreciation V.I. Fund']",57,176,197,0,0.465116279,19.53488372,0,430
+318,1,Vanguard PRIMECAP Core Fund,['Vanguard PRIMECAP Core Fund'],39,198,195,0.810185185,4.62962963,5.555555556,0,432
+345,0,BLACKROCK ADVANTAGE LARGE CAP GROWTH FUND,"['BLACKROCK MID CAP VALUE', 'BLACKROCK FLEXIBLE EQUITY FUND', 'BLACKROCK ADVANTAGE LARGE CAP GROWTH FUND']",53,171,211,0.689655172,0.459770115,17.01149425,0,435
+350,0,BLACKROCK EXCHANGE PORTFOLIO,['BLACKROCK EXCHANGE PORTFOLIO'],64,183,192,0.455580866,0.455580866,6.150341686,0,439
+309,1,Vanguard PRIMECAP Fund,['Vanguard PRIMECAP Fund'],49,163,227,3.530751708,9.453302961,6.605922551,0,439
+226,0,BLACKROCK GLOBAL DIVIDEND PORTFOLIO,"['BLACKROCK INCOME BUILDER PORTFOLIO', 'BLACKROCK Global Dividend Income PORTFOLIO', 'BLACKROCK GLOBAL DIVIDEND INCOME PORTFOLIO', 'BLACKROCK GLOBAL DIVIDEND PORTFOLIO']",68,182,190,0.227272727,0.454545455,14.31818182,0,440
+99,0,BlackRock Advantage Large Cap Core Fund,"['BlackRock Large Cap Core Fund', 'BlackRock Advantage Large Cap Core Fund']",74,182,196,0.442477876,1.991150442,16.15044248,0,452
+362,0,iShares Russell Mid-Cap Index Fund,"['BlackRock Midcap Index Fund', 'iShares Russell Mid-Cap Index Fund']",86,138,236,1.739130435,2.391304348,19.13043478,0,460
+283,0,BlackRock Global Opportunities V.I. Fund,"['BlackRock Global Growth VI Fund', 'BlackRock Global Opportunities VI Fund', 'BlackRock Global Opportunities V.I. Fund']",79,191,206,0.420168067,1.050420168,14.49579832,0,476
+368,0,BlackRock Impact U.S. Equity Fund,['BlackRock Impact U.S. Equity Fund'],65,208,204,0.419287212,0.419287212,8.176100629,0,477
+48,2,SPDR(R) Portfolio Mid Cap ETF,"['SPDR(R) Dow Jones Mid Cap ETF', 'SPDR(R) Russell Small Cap Completeness ETF', 'SPDR(R) S&P 1000 ETF', 'SPDR(R) Portfolio Mid Cap ETF']",104,71,306,12.16216216,6.964656965,40.12474012,0,481
+80,2,SPDR(R) Portfolio S&P 500 High Dividend ETF,"['SPDR S&P 500 High Dividend ETF', 'SPDR(R) Portfolio S&P 500 High Dividend ETF']",113,186,184,7.34989648,7.34989648,10.45548654,0,483
+335,1,Vanguard U.S. Value Fund,['Vanguard U.S. Value Fund'],89,187,207,3.623188406,8.592132505,4.865424431,0,483
+394,0,"BLACKROCK CAPITAL APPRECIATION FUND, INC.","['BLACKROCK FUNDAMENTAL GROWTH FUND, INC.', 'BLACKROCK CAPITAL APPRECIATION FUND, INC.']",64,201,228,0,0.60851927,19.26977688,0,493
+276,0,BlackRock Large Cap Focus Growth V.I. Fund,"['BlackRock Large Cap Growth V.I. Fund', 'BlackRock Large Cap Focus Growth V.I. Fund']",61,198,253,0.1953125,0.78125,18.5546875,0,512
+157,2,SPDR(R) Portfolio Developed World ex-US ETF,"['SPDR(R) S&P(R) World ex-US ETF', 'SPDR(R) Portfolio Developed World ex-US ETF']",188,140,198,1.901140684,1.330798479,3.517110266,0,526
+301,1,Vanguard Total International Stock Index Fund,['Vanguard Total International Stock Index Fund'],187,160,210,6.552962298,2.423698384,5.296229803,0,557
+13,2,State Street Institutional Strategic Investment Fund,"['Strategic Investment Fund', 'State Street Institutional Strategic Investment Fund']",90,237,250,0,0.346620451,10.74523397,0,577
+148,2,STATE STREET SMALL/MID CAP EQUITY INDEX PORTFOLIO,['STATE STREET SMALL/MID CAP EQUITY INDEX PORTFOLIO'],119,100,358,13.95147314,7.279029463,48.00693241,0,577
+317,1,Vanguard Equity Income Fund,['Vanguard Equity Income Fund'],108,236,313,4.946727549,11.03500761,3.500761035,0,657
+384,1,Vanguard Total World Stock Index Fund,['Vanguard Total World Stock Index Fund'],107,225,333,3.157894737,4.360902256,11.27819549,0,665
+232,1,Vanguard Market Neutral Fund,['Vanguard Market Neutral Fund'],95,223,347,4.135338346,8.571428571,9.398496241,0,665
+74,2,SPDR SSGA US Large Cap Low Volatility Index ETF,"['SPDR Russell 1000 Low Volatility ETF', 'SPDR SSGA US Large Cap Low Volatility Index ETF']",108,300,264,4.6875,9.077380952,11.08630952,0,672
+289,1,Vanguard Large-Cap Index Fund,['Vanguard Large-Cap Index Fund'],114,238,331,3.733528551,9.370424597,9.663250366,0,683
+17,1,VANGUARD WELLESLEY INCOME FUND,['VANGUARD WELLESLEY INCOME FUND'],116,279,290,3.430656934,6.131386861,1.605839416,0,685
+315,1,Vanguard Structured Broad Market,['Vanguard Structured Broad Market'],104,274,316,2.665706052,7.925072046,5.619596542,0,694
+273,0,BlackRock Managed Volatility V.I. Fund,"['BlackRock Balanced Capital V.I. Fund', 'BlackRock Managed Volatility V.I. Fund']",92,280,336,0.706214689,1.694915254,13.55932203,0,708
+281,0,BlackRock Basic Value V.I. Fund,['BlackRock Basic Value V.I. Fund'],112,279,358,0.267022697,1.068090788,11.88251001,0,749
+327,2,SSgA Disciplined Equity Fund,['SSgA Disciplined Equity Fund'],117,278,384,3.337612323,7.060333761,8.344030809,0,779
+222,0,BlackRock Long-Horizon Equity Fund,"['BlackRock Global Dynamic Equity Fund', 'BlackRock Long-Horizon Equity Fund']",105,293,437,0.479041916,1.19760479,19.88023952,0,835
+277,0,BlackRock Advantage Large Cap Value V.I. Fund,"['BlackRock Large Cap Value V.I. Fund', 'BlackRock Advantage Large Cap Value V.I. Fund']",125,335,386,0.709219858,1.182033097,10.63829787,0,846
+18,1,VANGUARD WELLINGTON FUND,['VANGUARD WELLINGTON FUND'],132,318,407,3.325554259,9.159859977,3.967327888,0,857
+267,0,BlackRock Balanced Capital Portfolio,['BlackRock Balanced Capital Portfolio'],110,358,399,0.461361015,1.268742791,13.49480969,0,867
+11,2,State Street Institutional S&P 500 Index Fund,"['S&P 500 Index Fund', 'State Street Institutional S&P 500 Index Fund']",113,310,476,2.725250278,6.006674082,16.46273637,0,899
+308,2,State Street S&P 500 Index V.I.S. Fund,"['S&P 500 Index Fund', 'State Street S&P 500 Index V.I.S. Fund']",113,310,476,2.725250278,6.006674082,16.46273637,0,899
+364,0,iShares MSCI Developed World Index Fund,"['BlackRock MSCI World Index Fund', 'iShares MSCI Developed World Index Fund']",180,372,355,1.212789416,0.551267916,6.945975744,0,907
+95,1,Vanguard Windsor Fund,['Vanguard Windsor Fund'],95,357,458,2.912087912,9.340659341,5.659340659,0,910
+366,0,iShares Total U.S. Stock Market Index Fund,"['BlackRock Total Stock Market Index Fund', 'iShares Total U.S. Stock Market Index Fund']",143,355,427,0.972972973,1.297297297,12.10810811,0,925
+268,0,BlackRock Advantage Large Cap Core Portfolio,"['BlackRock Large Cap Core Portfolio', 'BlackRock Advantage Large Cap Core Portfolio']",124,379,434,0.53361793,1.067235859,13.02027748,0,937
+275,0,BlackRock Advantage Large Cap Core V.I. Fund,"['BlackRock Large Cap Core V.I. Fund', 'BlackRock Advantage Large Cap Core V.I. Fund']",127,377,437,0.531349628,1.062699256,13.07120085,0,941
+82,2,SPDR S&P 500 Fossil Fuel Reserves Free ETF,"['SPDR S&P 500 Fossil Fuel Free ETF', 'SPDR S&P 500 Fossil Fuel Reserves Free ETF']",130,402,413,4.656084656,12.22222222,12.32804233,0,945
+77,2,SPDR(R) Portfolio Small Cap ETF,"['SPDR Russell 2000 (R) ETF', 'SPDR(R) Portfolio Small Cap ETF']",125,282,584,5.449041372,7.114026236,31.18062563,0,991
+279,0,BlackRock Equity Dividend V.I. Fund,"['BlackRock Utilities and Telecommunications V.I. Fund', 'BlackRock Equity Dividend V.I. Fund']",184,392,423,0.4004004,0.3003003,8.008008008,0,999
+314,1,Vanguard Growth and Income Fund,['Vanguard Growth and Income Fund'],156,396,474,2.680311891,4.824561404,6.481481481,0,1026
+84,2,SPDR Russell 1000 Momentum Focus ETF,"['SPDR Russell 1000 Core Momentum ETF', 'SPDR Russell 1000 Momentum Focus ETF']",178,422,449,7.292659676,12.63107722,14.06101049,0,1049
+38,2,SPDR(R) Global Dow ETF,"['SPDR(R) DJ Global Titans ETF', 'SPDR(R) Global Dow ETF']",149,473,447,3.180542563,7.811038354,7.904583723,0,1069
+397,1,Vanguard S&P 500 Growth Index Fund,['Vanguard S&P 500 Growth Index Fund'],159,433,525,2.327663384,7.341092211,8.191584602,0,1117
+303,2,State Street Total Return V.I.S. Fund,"['Total Return Fund', 'State Street Total Return V.I.S. Fund']",220,411,528,1.682484901,2.329594478,13.71872304,0,1159
+316,0,BLACKROCK EQUITY DIVIDEND FUND,['BLACKROCK EQUITY DIVIDEND FUND'],204,455,529,0.336700337,0.841750842,10.69023569,0,1188
+207,2,SPDR MSCI ACWI Low Carbon Target ETF,['SPDR MSCI ACWI Low Carbon Target ETF'],176,518,575,4.531126872,9.14105595,12.05673759,0,1269
+293,1,VANGUARD MORGAN GROWTH FUND,['VANGUARD MORGAN GROWTH FUND'],180,497,664,2.721849366,7.680835198,8.240119314,0,1341
+139,2,State Street Equity 500 Index II Portfolio,['State Street Equity 500 Index II Portfolio'],241,558,585,5.563583815,11.81358382,11.92196532,0,1384
+344,0,BLACKROCK TACTICAL OPPORTUNITIES FUND,"['BLACKROCK ASSET ALLOCATION', 'BLACKROCK MANAGED VOLATILITY PORTFOLIO', 'BLACKROCK TACTICAL OPPORTUNITIES FUND']",236,505,676,0.564573042,0.846859562,16.79604799,0,1417
+323,2,SSgA IAM SHARES Fund,['SSgA IAM SHARES Fund'],228,509,687,13.83426966,29.70505618,43.11797753,0,1424
+46,2,SPDR(R) Portfolio S&P 500 Growth ETF,"['SPDR(R) Dow Jones Large Cap Growth ETF', 'SPDR(R) S & P 500 Growth ETF', 'SPDR(R) Portfolio S&P 500 Growth ETF']",213,574,700,4.404841964,10.92804304,15.97175521,0,1487
+196,2,SPDR MSCI World StrategicFactors ETF,"['SPDR MSCI World Quality Mix ETF', 'SPDR MSCI World StrategicFactors ETF']",360,596,608,5.115089514,9.047314578,9.590792839,0,1564
+79,2,SPDR MSCI USA StrategicFactors ETF,"['SPDR MSCI USA Quality Mix ETF', 'SPDR MSCI USA StrategicFactors ETF']",303,688,671,7.34055355,12.03369434,12.244284,0,1662
+191,2,SPDR(R) MSCI ACWI IMI ETF,['SPDR(R) MSCI ACWI IMI ETF'],312,673,698,4.486036839,7.367795603,9.685086156,0,1683
+284,0,BlackRock Global Allocation V.I. Fund,['BlackRock Global Allocation V.I. Fund'],288,724,861,0.480512547,0.694073679,12.38654565,0,1873
+331,0,"BLACKROCK GLOBAL ALLOCATION FUND, INC.","['BLACKROCK GLOBAL ALLOCATION FUND, INC.']",288,725,862,0.48,0.693333333,12.42666667,0,1875
+269,0,BlackRock Global Allocation Portfolio,['BlackRock Global Allocation Portfolio'],325,786,1020,0.422336931,0.656968559,13.74941342,0,2131
+404,1,Vanguard Tax-Managed Balanced Fund,['Vanguard Tax-Managed Balanced Fund'],343,773,1153,4.561480829,8.527985897,8.351696783,0,2269
+47,2,SPDR(R) Portfolio S&P 500 Value ETF,"['SPDR(R) Dow Jones Large Cap Value ETF', 'SPDR(R) S & P 500 Value ETF', 'SPDR(R) Portfolio S&P 500 Value ETF']",407,834,1047,5.725524476,10.66433566,11.53846154,0,2288
+72,2,SPDR S&P 1500 Momentum Tilt ETF,['SPDR S&P 1500 Momentum Tilt ETF'],397,857,1055,6.149848419,10.67561715,16.24079688,0,2309
+71,2,SPDR S&P 1500 Value Tilt ETF,['SPDR S&P 1500 Value Tilt ETF'],403,859,1073,6.295503212,10.79229122,16.4882227,0,2335
+45,2,SPDR(R) Portfolio Large Cap ETF,"['SPDR(R) Dow Jones Large Cap ETF', 'SPDR(R) Russell 1000 ETF', 'SPDR(R) Portfolio Large Cap ETF']",529,1047,1355,6.465370181,10.83248038,14.2954623,0,2931
+36,2,SPDR(R) Portfolio Total Stock Market ETF,"['SPDR(R) Dow Jones Total Market ETF', 'SPDR(R) Russell 3000 ETF', 'SPDR(R) Portfolio Total Stock Market ETF']",524,975,1446,6.638370119,10.40747029,18.23429542,0,2945
+391,1,Vanguard Institutional Index Fund,['Vanguard Institutional Index Fund'],450,1083,1498,3.381722204,7.720224348,8.116133289,0,3031
+274,0,BlackRock S&P 500 Index V.I. Fund,['BlackRock S&P 500 Index V.I. Fund'],521,1189,1545,0.491551459,0.64516129,16.58986175,0,3255
+395,1,VANGUARD BALANCED INDEX FUND,['VANGUARD BALANCED INDEX FUND'],506,1064,1791,3.80839036,7.854805118,12.58554002,0,3361
+97,2,State Street Equity 500 Index Portfolio,['State Street Equity 500 Index Portfolio'],589,1341,1805,4.364123159,9.236947791,13.52074967,0,3735

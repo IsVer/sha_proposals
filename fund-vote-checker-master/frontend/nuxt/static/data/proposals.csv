@@ -1,0 +1,141 @@
+id,year,proposal,company,funds_yes,funds_no,outcome
+1,2009,Suspendisse potenti. Cras in purus eu magna vulputate luctus.,Meezzy,[75],[97],0
+2,2010,Phasellus sit amet erat. Nulla tempus.,Jaloo,[123],[16],0
+3,2009,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",Thoughtbridge,[37],[108],0
+4,2012,Curabitur at ipsum ac tellus semper interdum.,Zoomdog,[118],[115],0
+5,2014,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",Yodoo,[91],[112],1
+6,2017,Maecenas ut massa quis augue luctus tincidunt.,Mycat,[41],[49],1
+7,2009,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,Oodoo,[33],[110],1
+8,2014,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",Meevee,[39],[66],1
+9,2013,In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.,Eazzy,[82],[114],1
+10,2013,Donec ut dolor.,Livefish,[107],[101],0
+11,2019,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",Avamba,[1],[115],0
+12,2015,Cras in purus eu magna vulputate luctus.,Snaptags,[116],[69],1
+13,2011,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",Yoveo,[116],[1],0
+14,2013,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue.",InnoZ,[31],[73],1
+15,2012,Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet.,Centidel,[41],[22],0
+16,2019,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",Skibox,[103],[121],1
+17,2016,In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.,Muxo,[96],[26],1
+18,2014,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.",Fivebridge,[114],[121],1
+19,2015,Aenean fermentum.,Voonyx,[108],[29],0
+20,2017,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",Teklist,[78],[123],1
+21,2012,"Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue.",Linktype,[118],[25],1
+22,2012,Curabitur in libero ut massa volutpat convallis.,Browsetype,[82],[50],1
+23,2011,Suspendisse potenti.,Twiyo,[35],[120],0
+24,2014,Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum.,Cogilith,[2],[19],1
+25,2015,"Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus.",Gevee,[69],[67],1
+26,2012,"Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",Kwideo,[1],[96],1
+27,2018,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.,Brainlounge,[100],[108],0
+28,2016,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc.",Gabvine,[44],[101],1
+29,2017,Maecenas tincidunt lacus at velit.,LiveZ,[50],[55],0
+30,2019,"Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",Babbleblab,[106],[98],0
+31,2012,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.",Talane,[34],[88],1
+32,2015,"Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus.",Quamba,[103],[10],1
+33,2016,"Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",Skivee,[86],[55],1
+34,2009,"Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.",Skinder,[89],[117],1
+35,2015,Fusce consequat. Nulla nisl.,Wikido,[66],[66],1
+36,2010,Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.,Katz,[13],[61],0
+37,2011,Duis consequat dui nec nisi volutpat eleifend.,Zoomlounge,[110],[47],0
+38,2013,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",Innotype,[70],[65],0
+39,2017,Duis consequat dui nec nisi volutpat eleifend.,Vitz,[58],[45],0
+40,2019,Cras non velit nec nisi vulputate nonummy.,Divavu,[58],[89],0
+41,2010,Fusce consequat.,Youspan,[51],[50],1
+42,2012,"Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",Skyndu,[54],[108],0
+43,2010,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",Edgeblab,[35],[120],0
+44,2016,Aliquam erat volutpat.,Janyx,[26],[70],0
+45,2018,Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus.,Kanoodle,[76],[14],0
+46,2011,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.,Oyonder,[81],[18],1
+47,2013,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,Chatterpoint,[35],[22],1
+48,2012,"Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.",Brainsphere,[38],[86],0
+49,2017,"Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum.",Skivee,[59],[45],0
+50,2018,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.",Ntags,[33],[29],0
+51,2016,Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.,Ntag,[122],[67],1
+52,2010,"Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.",Chatterpoint,[21],[36],1
+53,2009,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",Browseblab,[57],[118],1
+54,2010,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",Mycat,[108],[10],1
+55,2012,"Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",Jetwire,[46],[114],0
+56,2014,Etiam pretium iaculis justo.,Muxo,[79],[86],1
+57,2009,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.,Youfeed,[108],[58],1
+58,2011,Proin eu mi.,Fivebridge,[90],[96],1
+59,2019,"Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.",LiveZ,[57],[63],1
+60,2017,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",Quinu,[44],[43],0
+61,2010,Suspendisse accumsan tortor quis turpis. Sed ante.,Bubbletube,[16],[19],1
+62,2012,Donec posuere metus vitae ipsum.,Feedfish,[46],[122],0
+63,2013,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",LiveZ,[19],[8],0
+64,2017,Fusce consequat. Nulla nisl.,Skyble,[103],[115],0
+65,2016,Pellentesque ultrices mattis odio. Donec vitae nisi.,Wikivu,[79],[101],1
+66,2010,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",Einti,[83],[124],0
+67,2019,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",Meembee,[103],[88],0
+68,2012,Ut at dolor quis odio consequat varius. Integer ac leo.,Devshare,[17],[123],1
+69,2013,Morbi vel lectus in quam fringilla rhoncus.,Voonte,[92],[2],0
+70,2019,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,Roomm,[100],[40],0
+71,2017,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",Skivee,[50],[70],0
+72,2018,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.",Voomm,[1],[77],0
+73,2010,Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend.,Izio,[97],[113],1
+74,2011,In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.,Dynava,[101],[70],1
+75,2012,"Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",Aivee,[1],[18],1
+76,2009,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.",Yata,[95],[23],0
+77,2011,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus.",Tagchat,[82],[48],1
+78,2014,Aenean lectus. Pellentesque eget nunc.,Feedmix,[32],[53],0
+79,2012,Vestibulum ac est lacinia nisi venenatis tristique.,Skidoo,[19],[64],0
+80,2011,In hac habitasse platea dictumst.,Wikido,[69],[35],0
+81,2013,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",Leexo,[40],[85],0
+82,2014,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.,Babbleset,[64],[20],0
+83,2013,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",Zoozzy,[22],[6],1
+84,2011,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",Quaxo,[5],[84],0
+85,2015,Nunc purus. Phasellus in felis. Donec semper sapien a libero.,Ainyx,[28],[111],0
+86,2018,Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.,Livepath,[92],[21],1
+87,2015,Maecenas rhoncus aliquam lacus.,Wordware,[90],[47],1
+88,2018,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,Fiveclub,[12],[98],1
+89,2009,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",Myworks,[124],[28],1
+90,2019,Morbi non lectus.,Voonyx,[103],[16],0
+91,2019,Etiam justo. Etiam pretium iaculis justo.,Buzzbean,[51],[13],1
+92,2011,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",Aimbu,[86],[88],0
+93,2013,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",Jayo,[80],[81],0
+94,2011,Suspendisse accumsan tortor quis turpis. Sed ante.,Voonder,[26],[14],1
+95,2009,Nunc purus. Phasellus in felis. Donec semper sapien a libero.,Einti,[39],[50],1
+96,2015,Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy.,Skynoodle,[87],[35],1
+97,2009,"Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",Zoombox,[86],[56],0
+98,2017,Nulla ut erat id mauris vulputate elementum. Nullam varius.,Realblab,[71],[124],1
+99,2012,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",Shufflebeat,[20],[96],1
+100,2012,Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.,Tagchat,[112],[1],1
+101,2011,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,Kimia,[21],[42],0
+102,2016,Vivamus tortor.,Realbridge,[68],[103],0
+103,2010,Integer non velit.,Thoughtblab,[118],[122],1
+104,2018,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",Vidoo,[105],[13],0
+105,2019,Vivamus tortor. Duis mattis egestas metus.,Podcat,[54],[68],1
+106,2019,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",Riffpedia,[111],[79],0
+107,2019,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus.",Babbleset,[116],[51],0
+108,2010,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",Lazz,[48],[64],1
+109,2014,In hac habitasse platea dictumst.,Skippad,[83],[95],1
+110,2012,"Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue.",Gabvine,[110],[92],1
+111,2017,"Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",Oloo,[51],[44],1
+112,2016,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",BlogXS,[84],[20],1
+113,2013,Nulla facilisi. Cras non velit nec nisi vulputate nonummy.,Babbleblab,[26],[93],0
+114,2017,Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.,Photofeed,[35],[92],0
+115,2019,"Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",Katz,[34],[89],0
+116,2015,"Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",Browsetype,[45],[26],0
+117,2018,"Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",Eidel,[5],[60],1
+118,2012,In hac habitasse platea dictumst.,Brainverse,[53],[115],1
+119,2013,Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl.,Kwinu,[21],[40],1
+120,2009,Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst.,Edgeclub,[86],[7],1
+121,2011,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.",Brainbox,[12],[111],0
+122,2014,"Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula.",Zoombeat,[16],[32],1
+123,2010,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum.",Jayo,[65],[29],1
+124,2014,Duis bibendum.,Cogilith,[101],[22],0
+125,2018,Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum.,Zazio,[117],[65],0
+126,2013,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",Riffwire,[49],[92],0
+127,2019,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",Thoughtbeat,[97],[75],0
+128,2010,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,Jabberstorm,[51],[28],0
+129,2017,Proin at turpis a pede posuere nonummy. Integer non velit.,Buzzster,[95],[42],1
+130,2016,"Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",Yamia,[101],[62],0
+131,2019,"Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",Pixope,[72],[29],1
+132,2009,Quisque ut erat. Curabitur gravida nisi at nibh.,Topiclounge,[120],[35],1
+133,2018,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",Skipfire,[121],[111],0
+134,2009,Aenean fermentum. Donec ut mauris eget massa tempor convallis.,Eamia,[116],[54],1
+135,2015,"Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",Dynabox,[98],[55],1
+136,2009,Vestibulum rutrum rutrum neque.,Rhynyx,[66],[106],1
+137,2014,Suspendisse potenti.,Eadel,[57],[57],1
+138,2013,Phasellus in felis. Donec semper sapien a libero.,Vidoo,[29],[40],1
+139,2015,Nulla tellus.,Skyvu,[97],[33],1
+140,2015,Duis aliquam convallis nunc.,Roombo,[82],[46],0

@@ -1,0 +1,86 @@
+.overflow-hidden {
+  overflow: hidden;
+}
+
+.text-ellipsis {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.position-relative {
+  position: relative;
+}
+
+.position-absolute {
+  position: absolute !important;
+}
+
+.position-absolute-tl0 {
+  position: absolute !important;
+  top: 0;
+  left: 0;
+}
+.position-absolute-bl0 {
+  position: absolute !important;
+  bottom: 0;
+  left: 0;
+}
+.position-absolute-tr0 {
+  position: absolute !important;
+  top: 0;
+  right: 0;
+}
+
+.center-absolute--vertical {
+  position: absolute !important;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.center-absolute--horizontal {
+  position: absolute !important;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.center-absolute--both {
+  position: absolute !important;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.height-100pc {
+  height: 100%;
+}
+
+.width-100pc {
+  width: 100%;
+}
+
+.width-80pc {
+  width: 80%;
+}
+
+.z-index--9 {
+  z-index: 9;
+}
+
+.z-index--99 {
+  z-index: 99;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.pointer-events-none {
+  pointer-events: none;
+}
+
+@include media(">=md") {
+  .container {
+    max-width: 1000px;
+  }
+}
