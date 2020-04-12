@@ -299,7 +299,7 @@
       </v-row>
     </v-container>
     <!-- :categories="['e', 's', 'g']" -->
-    <ChartBubbleViolin
+    <!-- <ChartBubbleViolin
       v-intersect.quiet="onIntersect"
       :data="bubbleData"
       :proposals="proposals"
@@ -311,7 +311,7 @@
       sizeProperty="vote"
       :sizeDomain="[0, 1000]"
       :sizeRange="[1, 15]"
-    />
+    /> -->
   </v-container>
 </template>
 

@@ -8,36 +8,56 @@
   <!-- <v-container class="pa-0" fluid> -->
   <v-container class="pa-0" fluid>
     <!-- a regular container is not scaled to the full width on larger screens and centered -->
-    <v-container class="pa-6">
+    <!-- <v-parallax src="./static/img/companies.jpeg"> -->
+    <!-- </v-parallax> -->
+    <v-container>
       <!-- Vuetify’s grid system works with rows (v-row) and columns (v-col) -->
       <!-- https://vuetifyjs.com/en/components/grids#grid-system -->
       <!-- In v-row there are shortcuts to flexbox css attributes available -->
       <!-- align for vertical; justify for horizontal positioning -->
-      <v-row style="height:calc(100vh - 110px)" align="center">
-        <!-- TODO: fade in after everything is loaded :) -->
+  
+      <v-row justify="center">
+        <v-col cols="12" lg="12">
+        <h3 class="display-1 font-weight-thin mb-10">
+              <span class="font-weight-thin">You own stock? </span> 
+              <br><br> How to start a conversation with the company you invested in
+        </h3>
+      <!-- <v-row style="height:calc(100vh - 110px)" align="center">
         <transition name="fade-slow">
           <v-col v-if="isHydrated">
-            <!-- Vuetify provides typography helper classes: -->
-            <!-- https://vuetifyjs.com/en/styles/typography#typography -->
-            <!-- <h2 class="overline">How activists use the capitalist toolbox</h2> -->
-            <h1 class="display-3 font-weight-thin">
-              <span
-                >You most probably own <br />
-                mutual funds and ETFs that voted <br
-              /></span>
-              <br />… on your behalf <br />&nbsp;
-            </h1>
           </v-col>
         </transition>
-      </v-row>
+      </v-row> -->
+          <p class="text-justify ">
+            As a shareholder you get to vote on resolutions (also called proposals) presented at a company’ shareholder meeting. Most resolutions at shareholder meetings are from the companies’ management. These are covering routine issues like the election of board members, or approval of a company’s accountancy firm - oftentimes uncontroversial and supported by most shareholders. 
+          </p>
 
-      <v-row class="mb-10">
-        <v-col>
-          <h3 class="display-1 font-weight-thin">
-            Shareholder activism. – What do we mean by “activism”?
-          </h3>
+          <p class=" text-justify ">
+            Other agenda items are more contended. Besides voting, shareholders can also submit proposals. Every year in the U.S., there are about 400 resolutions filed on environmental, social, and sustainability governance topics. These shareholder proposals are a formal way to ask the company to act on something. Some of these proposals make it to the proxy ballot, for all stockholders to vote on.
+          </p>
+
+          <h2 class="text-justify font-weight-thin">
+            You could also submit a proposal to the ballot yourself. 
+          </h2>
+          <p class=" text-justify ">
+          Let us walk you through the process of submitting a shareholder proposal.
+          </p>
+
+      <p class=" text-justify ">
+         <span class=" font-weight-black " > Can I do that? </span> To submit a shareholder proposal to a company’s proxy ballot you should
+            own more than $2,000 in shares or 1% of the company (the 1% in shares can be less than $2,000 in value, but that is not common);
+            have owned this stake continuously for at least a full year before you submit the proposal; 
+            make sure to continue to hold this stake when proposals may be brought for a vote.
+          </p>
+
+      <p class=" text-justify ">
+          <span class=" font-weight-black " > Ok. I qualify. How can I proof that? </span> 
+          Get a written statement from your broker or bank showing that you have had the minimum stake for at least one year when you submit the proposal. (This should be an official holder of your “record”, called a <a href='https://www.investopedia.com/terms/d/dtc.asp'> Depository Trust Company </a> (“DTC”) participant.)
+          </p>
         </v-col>
       </v-row>
+
+      
       <v-row justify="center">
         <!-- With cols="10" we can set a narrower container on the page -->
         <v-col cols="12" lg="10">
@@ -45,15 +65,21 @@
           <v-row justify="center">
             <!-- Are we make a even narrower container -->
             <v-col cols="12" sm="10" md="7">
-              <h4 class="title">
-                The role of shareholder meetings.
+              <p class="font-weight-black">  
+              Before you start writing, few important details. <br><br>
                 <span class="font-weight-regular"
-                  >– Who can propose and who can vote?</span
-                >
-              </h4>
+                  >
+                  <ol> 
+                  <li> Get the submission deadline from the company’s investor relations contact person. The proposal should be submitted at least 120 days before the anniversary date of the company's proxy statement that was sent out for the previous annual meeting (but the company might not have had a shareholder meeting last year, or changed its date, so check with the company). </li>
+                  <li> Your proposal can be max 500 words. </li>
+                  </ol></span>
+              </p>
+              <p> Ok, let’s say you submitted your proposal. Few things can happen before the shareholder meeting.</p>
             </v-col>
           </v-row>
-          <v-row class="mt-4" justify="center">
+
+
+        <v-row class="mt-4" justify="center">
             <!-- With cols="1" and cols="6" we split up the 7 columns we used above -->
             <v-col class="d-flex justify-center" cols="12" sm="2" md="1">
               <!-- This is how you can use an icon -->
@@ -62,9 +88,7 @@
               (x-small, small, medium (default), large, and x-large)
               without a value-->
               <!-- By default you can use these icons: https://materialdesignicons.com/ -->
-              <v-icon x-large class="mt-n4" color="primary"
-                >mdi-account-group</v-icon
-              >
+
             </v-col>
 
             <v-col cols="12" sm="8" md="6">
@@ -163,7 +187,15 @@
         </v-col>
       </v-row>
     </v-container>
+    
+
+
+
+
     <ChartSankey class="my-10" />
+
+
+
     <v-container class="mt-12">
       <v-row justify="center">
         <v-col cols="12" lg="10">

@@ -7,7 +7,7 @@
 
       <!--  -->
       <!-- This will be a component! -->
-      <InterfaceFundSearchBar />
+      <!-- <InterfaceFundSearchBar /> -->
       <!-- End of component -->
       <!--  -->
 
