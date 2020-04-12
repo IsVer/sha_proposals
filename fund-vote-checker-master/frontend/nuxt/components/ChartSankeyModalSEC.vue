@@ -18,7 +18,7 @@
     >
       <div style="width:80%;">
         <div
-          v-if="breakpoint ? breakpoint.mdAndDown : false"
+          v-if="breakpoint ? breakpoint.lgAndDown : false"
           class="d-flex justify-center"
         >
           <v-btn
