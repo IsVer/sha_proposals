@@ -8,8 +8,23 @@
   <!-- <v-container class="pa-0" fluid> -->
   <v-container class="pa-0" fluid>
     <!-- a regular container is not scaled to the full width on larger screens and centered -->
-    <!-- <v-parallax src="./static/img/companies.jpeg"> -->
-    <!-- </v-parallax> -->
+    <v-parallax src="/img/bluecomps.png">
+
+        <v-row
+      align="center"
+      justify="center"
+    >
+      <v-col class="text-left" cols="8">
+          <h1 class=" font-weight-thin mb-10">
+              <span class="font-weight-black">Do you own stock? </span> 
+              <br><br> How to start a conversation with the company you invested in
+        </h1> 
+      </v-col>
+    </v-row>
+
+
+    </v-parallax>
+
     <v-container>
       <!-- Vuetify’s grid system works with rows (v-row) and columns (v-col) -->
       <!-- https://vuetifyjs.com/en/components/grids#grid-system -->
@@ -18,10 +33,7 @@
   
       <v-row justify="center">
         <v-col cols="12" lg="12">
-        <h3 class="display-1 font-weight-thin mb-10">
-              <span class="font-weight-thin">You own stock? </span> 
-              <br><br> How to start a conversation with the company you invested in
-        </h3>
+
       <!-- <v-row style="height:calc(100vh - 110px)" align="center">
         <transition name="fade-slow">
           <v-col v-if="isHydrated">
