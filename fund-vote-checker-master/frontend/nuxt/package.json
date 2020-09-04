@@ -22,7 +22,7 @@
     "d3": "^5.15.0",
     "d3-sankey": "^0.12.3",
     "nuxt": "^2.0.0",
-    "papaparse": "^5.1.1",
+    "papaparse": "^5.2.0",
     "smoothscroll-polyfill": "^0.4.4",
     "v-tooltip": "^2.0.3",
     "vue-apexcharts": "^1.5.2",
